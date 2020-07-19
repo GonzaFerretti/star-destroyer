@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+/.idea*/
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Assets/Music/synthwave_song1_maybefinal_newsubmixmaster_2_01.flac.meta
+Assets/Music/synthwave_song1_maybefinal_newsubmixmaster_2_01.flac
+Assets/Music/Title screen theme.wav
+Assets/Music/Title screen theme.wav.meta
+Assets/Music/Synthwave_Final.flac.meta
+Assets/Music/Synthwave_Final.flac
